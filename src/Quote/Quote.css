@@ -1,0 +1,39 @@
+.back{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("Step.jpg");
+    filter: brightness(0.7);
+    filter: contrast(0.8);
+    background-size: cover;
+    width: 99.9vw;
+    height: 50vw;
+} 
+
+.quote{
+    display: flex;
+    margin-top: -2vw;
+    flex-direction: column;
+    margin-left: 30vw;
+}
+
+.pa1{
+    color:rgb(199, 104, 89);
+    font-family: 'Cormorant Garamond', serif;
+    font-size:  2.6041666666666665vw;
+    filter: contrast(100);
+    animation: fadein 4s;
+}
+
+@keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+.pa2{
+    color: black;
+    font-size: 0.9765625vw;    
+
+}
+
+   

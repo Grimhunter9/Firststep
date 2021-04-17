@@ -1,0 +1,27 @@
+.con{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5vw;
+}
+
+
+.quot{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5vw;
+}
+
+
+.p2{
+    font-size:  1.4322916666666667vw;
+    color: rgba(255, 255, 255, 0.76);
+
+}
+
+.p3{
+    font-size: 1.171875vw;
+    margin-right: 2vw;
+
+}

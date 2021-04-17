@@ -1,0 +1,33 @@
+.head {
+	background:rgb(20, 19, 19);
+	width: 100vw;
+    position: fixed;
+    z-index: 10;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: -3vw;
+}
+
+img{
+    width: 3.5vw;
+    margin-top: 3.5vw;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Cormorant Garamond', serif;
+    color: white;
+    margin-top: -2vw;
+}
+
+.p1{
+    font-size: 3vw;
+}
+
+.p2{
+    font-size:1vw;   
+    margin-top: -2.5vw;
+}

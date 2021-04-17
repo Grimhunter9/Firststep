@@ -1,0 +1,12 @@
+body{
+background-color: rgba(132, 57, 45);
+text-align: center;
+width: 100vw;
+}
+
+.content-area {
+	position: absolute;
+    top:10vw;
+    width: 100vw;
+}
+
