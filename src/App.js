@@ -21,7 +21,7 @@ class App extends React.Component{
     <div className="App">
       <Head/>
       
-      <div className="content-area">
+     {/* */} <div className="content-area">
         <Quote/>
         <Video/>
         <Gallery/>

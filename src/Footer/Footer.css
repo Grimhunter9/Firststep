@@ -1,4 +1,11 @@
 .foot{
     background:rgb(20, 19, 19);
     margin-top: 2vw;
+    height: 3vw;
+    display: flex;
+}
+
+.fot{
+    color: white;
+    margin-left: 5vw;
 }
