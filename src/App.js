@@ -25,6 +25,8 @@ class App extends React.Component{
         <Quote/>
         <Video/>
         <Gallery/>
+        <Saying/>
+        <Footer/>
         
       
       </div>

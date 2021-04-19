@@ -5,9 +5,9 @@
     background-image: url("Step.jpg");
     filter: brightness(0.7);
     filter: contrast(0.8);
-    background-size: cover;
-    width: 99.9vw;
+    background-size: cover; 
     height: 50vw;
+    
 } 
 
 .quote{
@@ -32,7 +32,8 @@ to   { opacity: 1; }
 
 .pa2{
     color: black;
-    font-size: 0.9765625vw;    
+    font-size: 0.9765625vw;   
+    animation: fadein 4s; 
 
 }
 
