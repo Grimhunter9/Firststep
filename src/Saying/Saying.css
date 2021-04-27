@@ -9,7 +9,6 @@
 
 
 .p{
-    
     font-size:  1.4322916666666667vw;
     color: rgba(255, 255, 255, 0.76);
 }
@@ -18,4 +17,34 @@
 .dots{
     background-color: transparent;
     color: white
+}
+
+.sho{
+    width: 50vw;
+    font-weight: 600;
+}
+
+.par{
+    color: black;
+}
+
+@media(max-width:1200px){
+      
+    .sho{
+        width: 80vw;
+    }
+
+    .dots{
+        width: 10vw;
+    }
+
+
+    .p{
+        font-size: 4vw;
+
+    }
+
+    .par{
+        font-size: 3.9vw;
+    }
 }

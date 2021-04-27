@@ -1,11 +1,26 @@
 .foot{
     background:rgb(20, 19, 19);
     margin-top: 2vw;
-    height: 3vw;
     display: flex;
 }
 
 .fot{
     color: white;
     margin-left: 5vw;
+} 
+
+@media(max-width:1200px){
+
+    .foot{
+        width:100vw ;
+        display: flex;
+        justify-content: center;
+        
+    }
+    .fot{
+        font-size: 3vw;
+        margin-right: 5vw;
+        
+    }
+
 }

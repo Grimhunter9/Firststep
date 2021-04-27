@@ -12,6 +12,8 @@
     "react-image-gallery": "^1.0.9",
     "react-player": "^2.9.0",
     "react-scripts": "4.0.3",
+    "reactjs-image-gallery": "^1.1.7",
+    "reactjs-popup": "^2.0.4",
     "web-vitals": "^1.1.1"
   },
   "scripts": {

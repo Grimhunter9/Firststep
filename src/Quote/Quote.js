@@ -15,6 +15,6 @@ class Quote extends React.Component{
     </div>
 )
 }
-}
+} 
 
 export default Quote;

@@ -14,4 +14,4 @@ class Foot  extends React.Component{
     }
 }
 
-export default Foot;
+export default Foot; 

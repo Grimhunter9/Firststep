@@ -37,4 +37,44 @@ to   { opacity: 1; }
 
 }
 
+/*********************************************************************************************************************/
+
+@media(max-width:1200px){
+
+
+    .back{
+        margin-top: 35vw;
+        background-size: cover; 
+        width: 100vw;
+        
+        
+    } 
+
+
+    .quote{
+        display: flex;
+        margin-top: -2vw;
+        flex-direction: column;
+        margin-left: 45vw;
+    }
+
+
+
+
+    .pa1{
+        font-size: 5vw;
+        
+    }
+
+
+    .pa2{ 
+        font-size: 4vw;  
+        margin-top: -5vw;
+    
+    }
+
+
+
+
+}
    

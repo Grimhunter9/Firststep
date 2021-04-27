@@ -8,13 +8,15 @@ class Vid extends React.Component{
 
         return(
       <div className="con">
+        <div>
          <ReactPlayer className="vcn" url="http://www.youtube.com/watch?v=E4mWvZflgPc"
         playing={true}
         loop={true}
         muted={true}
         controls={false}
-        width="50vw"
+        width="90vw"
         style={{ pointerEvents: 'none'}}/>
+        </div>
 
         <div className="quot">
           <p className="p2">“The way to get started is to take the first step with dream-powered optimism.”</p>

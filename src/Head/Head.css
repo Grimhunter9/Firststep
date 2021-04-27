@@ -27,7 +27,38 @@ img{
     font-size: 3vw;
 }
 
-.p2{
+.step{
     font-size:1vw;   
     margin-top: -2.5vw;
+}
+
+/*********************************************************************************************/
+
+@media (max-width:1200px){
+
+ 
+    img{
+        width: 15vw;
+        margin-top: 4vw;
+    }
+
+
+    .container{
+        margin-top: -7vw;
+    }
+    
+    
+    .p1{
+        font-size: 10vw;
+    }
+
+
+    
+    .step{
+        font-size:4vw;   
+        margin-top: -5vw;
+    }
+
+
+
 }

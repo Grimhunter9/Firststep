@@ -12,7 +12,7 @@ class Head extends React.Component{
 
          <div className="container">
             <p className="p1">The first step</p>
-            <p className="p2">It always begins, with a step ;) </p>
+            <p className="step">It always begins, with a step ;) </p>
          </div>
 
     </div>
