@@ -18,46 +18,7 @@ import shoe16 from './16.jpg';
 import shoe17 from './17.jpg';
 import shoe18 from './18.jpg';
 
- {/* <div >
-          {
-            imgs.map((img)=>{
-              return(
-                <div className="gallery">
-                <button className="btn"><img className="sh" src={img} alt=""/></button> 
-                </div>
-              )
-            })
-          }
-          </div>
-
-          <div>
-          {
-            imgs2.map((img)=>{
-              return(
-                <div className="gallery">
-                <button className="btn"><img className="sh" src={img} alt=""/></button> 
-                </div>
-              )
-            })
-          }
-        </div>
-
-
-        <div>
-          {
-            imgs3.map((img)=>{
-              return(
-                <div className="gallery">
-                <button className="btn"><img className="sh" src={img} alt=""/></button> 
-                </div>
-              )
-            })
-          }
-        </div>*/}
-
-            {/*
-             
-            */}
+ 
     
 
 
