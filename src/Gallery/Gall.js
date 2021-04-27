@@ -25,9 +25,7 @@ import shoe18 from './18.jpg';
   class Gall extends Component{
       render() {
 
-     {/* const imgs = [shoe1,shoe2,shoe3,shoe4,shoe5,shoe6,]
-      const imgs2= [shoe7,shoe8,shoe9,shoe10,shoe11,shoe12]
-     const imgs3= [shoe13,shoe14,shoe15,shoe16,shoe17,shoe18]*/}
+    
       return(
 
         <div>
