@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Popup from 'reactjs-popup';
 import shoe1 from './1.jpg';
 import shoe2 from './2.jpg';
 import shoe3 from './3.jpg';

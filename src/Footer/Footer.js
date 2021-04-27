@@ -4,7 +4,8 @@ import React, { Component } from 'react';
 
 
 
-class Foot  extends React.Component{
+
+class Foot  extends Component{
     render() {
         return (
              <div className="foot">
